@@ -1,0 +1,21 @@
+body{
+  background-color: rgb(187, 199, 247);
+  margin: 100px;
+}
+nav{
+  margin: 60px;
+}
+form{
+  margin: 50px;
+  border: solid gray;
+  padding: 30px;
+  background-color: rgb(183, 195, 204);
+}
+h1{
+  color: azure;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-decoration:underline;
+  
+}
+
+
